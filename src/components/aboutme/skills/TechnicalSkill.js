@@ -280,9 +280,12 @@ export default function TechnicalSkill() {
                     fontWeight: 700,
                   }}
                 >
-                  Os
+                  WordPress
                 </h2>
+              
               </div>
+
+              
             </Col>
           </Row>
         </Container>
